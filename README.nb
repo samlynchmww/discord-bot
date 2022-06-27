@@ -1,0 +1,6 @@
+
+to run:
+type "gem install discordrb"
+then "ruby app.rb"
+
+!
